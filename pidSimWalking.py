@@ -5,7 +5,6 @@ import pandas as pd
 import seaborn as sns  
 import warnings
 from sklearn.metrics import mean_squared_error
-import plotly.express as px
 
 warnings.filterwarnings('ignore')
 
